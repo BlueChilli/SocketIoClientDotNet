@@ -1,12 +1,12 @@
 {
-	"productName": "EngineIoClientDotNet",
-	"projectName": "EngineIoClientDotNet",
+	"productName": "SocketIoClientDotNet",
+	"projectName": "SocketIoClientDotNet",
 	"githubOwner": "Quobject",
-	"githubRepository": "EngineIoClientDotNet",
+	"githubRepository": "SocketIoClientDotNet",
 	"packageWhiteList": [
-		"EngineIoClientDotNet"
+		"SocketIoClientDotNet"
 	],
-	"solutionFile": "../src/EngineIoClientDotNet.netstandard20/EngineIoClientDotNet.netstandard20.sln",
+	"solutionFile": "../src/SocketIoClientDotNet.netstandard20/SocketIoClientDotNet.netstandard20.sln",
 	"tags": [
 		"Socket-io",
 		"Sockiet-io-engine"
