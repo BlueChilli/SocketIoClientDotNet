@@ -2,13 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <RootNamespace>SocketIoClientDotNet.netstandard2._0</RootNamespace>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <Description>This is the Socket.IO Client Library for C#.</Description>
+    <PackageProjectUrl>https://github.com/Quobject/SocketIoClientDotNet/</PackageProjectUrl>
+    <Version>1.0.8</Version>
+    <Copyright>Copyright © 2018</Copyright>
+    <RepositoryUrl>https://github.com/Quobject/SocketIoClientDotNet/</RepositoryUrl>
+    <AssemblyVersion>1.0.8.0</AssemblyVersion>
+    <FileVersion>1.0.8.0</FileVersion>
+    <RootNamespace>Quobject.SocketIoClientDotNet</RootNamespace>
+    <AssemblyName>SocketIoClientDotNet</AssemblyName>	
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Remove="Class1.cs" />
-    <Compile Remove="Client\IO_net35.cs" />
-  </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
     <PackageReference Include="SuperSocket.ClientEngine.Core" Version="0.10.0" />
