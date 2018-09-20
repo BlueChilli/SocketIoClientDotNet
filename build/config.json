@@ -6,7 +6,7 @@
 	"packageWhiteList": [
 		"SocketIoClientDotNet"
 	],
-	"solutionFile": "../src/SocketIoClientDotNet.netstandard20/SocketIoClientDotNet.sln",
+	"solutionFile": "../src/SocketIoClientDotNet.netstandard2.0/SocketIoClientDotNet.sln",
 	"tags": [
 		"Socket-io",
 		"Sockiet-io-engine"
